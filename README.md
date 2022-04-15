@@ -31,7 +31,8 @@ In addition, we were informed that the 9th grade test scores for Thomas High Sch
 The original summary report suggests a slight positive correlation with higher spending per student and lower test scores and passing rates.  Similarly, it shows that largely, the smaller schools have higher overall passing percentages.
 
 - after nullification:
-![Screen Shot 2022-04-14 at 7 58 58 PM](https://user-images.githubusercontent.com/100544761/163501313-6ae4d417-ac81-4a9d-afac-b90c2e754d4d.png)
+<img width="1131" alt="Screen Shot 2022-04-15 at 3 19 26 PM" src="https://user-images.githubusercontent.com/100544761/163628401-01dd9299-d769-41e4-b368-e458d0baf48c.png">
+
 
 We can see from the second generated summary report after nullifying 9th grade test scores for Thomas High School, that their test scores improved dramatically for the 10th-12th graders.  This action consequentially raised them from middle of the pack to 2nd best performing school in the district.
 

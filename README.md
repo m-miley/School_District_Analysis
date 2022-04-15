@@ -46,8 +46,9 @@ We can see from the second generated summary report after nullifying 9th grade t
 
 ### Math and Reading Scores by Grade:
 
-![Screen Shot 2022-04-14 at 8 09 19 PM](https://user-images.githubusercontent.com/100544761/163502049-17d936b6-5015-448e-a343-6a08af0d69a4.png)
-![Screen Shot 2022-04-14 at 8 09 32 PM](https://user-images.githubusercontent.com/100544761/163502053-4d9ba904-3d9a-47dd-a67a-fdf20c0996f1.png)
+<img width="485" alt="Screen Shot 2022-04-15 at 3 10 23 PM" src="https://user-images.githubusercontent.com/100544761/163627481-03cfe23b-b23c-459a-a8e9-b85e20af5e62.png">
+<img width="485" alt="Screen Shot 2022-04-15 at 3 10 23 PM" src="https://user-images.githubusercontent.com/100544761/163627468-9e2d67fc-e67e-4d9d-b597-daf6470e7649.png">
+
 
 ### Scores by School Spending
 - Oddly enough, or maybe not because only 461 of 39170 students were affected by changes in the data, that both original and altered reports were identical with no changes to data.  The results are the same.  Schools with more spending per capita have lower averages and passing rates.

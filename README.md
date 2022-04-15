@@ -45,7 +45,7 @@ We can see from the second generated summary report after nullifying 9th grade t
 ![Screen Shot 2022-04-14 at 8 05 36 PM](https://user-images.githubusercontent.com/100544761/163501833-59ca3377-4577-4d22-9bc8-95bc8e167c84.png)
 
 ### Math and Reading Scores by Grade:
-- after nullification:
+
 ![Screen Shot 2022-04-14 at 8 09 19 PM](https://user-images.githubusercontent.com/100544761/163502049-17d936b6-5015-448e-a343-6a08af0d69a4.png)
 ![Screen Shot 2022-04-14 at 8 09 32 PM](https://user-images.githubusercontent.com/100544761/163502053-4d9ba904-3d9a-47dd-a67a-fdf20c0996f1.png)
 

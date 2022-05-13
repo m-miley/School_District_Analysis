@@ -69,3 +69,7 @@ We can see from the second generated summary report after nullifying 9th grade t
 
 ## Summary
 All in all, the schools in this district have varying budgets, sizes, types, and test scores.  Insights were highlighted here with nothing conclusive as to causation.  This would likely require more data such as curriculum content, teacher count and education, supplies, extracurricular activities, demographics, location, etcetera.  However, these insights do give us a good indication of performance and perhaps the affectiveness of school types. Moreover, provides evidence against the hypothesis that more funding translates to higher grades.  In the challenge script, focus was on restructuring the reports to nullifying 9th grade scores for Thomas High School.  This did have a drastic impact on their placement in the school summary top performers, ex post facto. Their overall passing percentage increased nearly 40% as a result.  Largely all the other reports: District schools, Spending, Size, and Type maintained the same scores and percentages.  There was a small 0.1% change in one of the score averages.  In conclusion, although strange at first glance, considering how 461 is only about 1.1% of the original 39,170 student count for the district, the null in the subsequent rows had no observable impacts to the analysis outside of the school summary report, of which it had a dramatic affect.
+
+### Contact
+
+Email:  mrmileyy@gmail.com
